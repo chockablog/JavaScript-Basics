@@ -1,0 +1,1 @@
+alert("He, i want to learn JavaScript!");
